@@ -1,0 +1,386 @@
+/* CSS */
+body, html {
+	height: 100%;
+	min-height: 100%;
+  background-color: #F1F1F1;
+}
+body {
+  margin: 0px !important;
+}
+main {
+	overflow-x: hidden;
+}
+
+.bcg {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+/* Welcome Slide */
+#welcome .bcg {
+  background: none;
+}
+
+.welcome-image {
+  background-image: url('../img/01/01_welcome_004.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+}
+
+/* Slide 1 */
+#slide-1 .bcg {
+  color: #283644;
+  background: none;
+  height: 610px;
+  text-align: center;
+}
+
+.cherryblossim {
+  background-image: url('../img/01/01_welcome_001.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 800px;
+}
+
+.pika-slide1 {
+  background-image: url('../img/01/01_welcome_002.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 800px;
+}
+
+.speech-slide1 {
+	background-image: url('../img/01/01_welcome_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 700px;
+	width: 600px !important;
+}
+
+.speech-text1 {
+	background-image: url('../img/01/01_welcome_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 700px;
+}
+
+.speech-text2 {
+	background-image: url('../img/01/01_welcome_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 700px;
+}
+
+.speech-text3 {
+	background-image: url('../img/01/01_welcome_006.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 700px;
+	width: 650px !important;
+}
+
+.speech-text4 {
+	background-image: url('../img/01/01_welcome_007b.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 700px;
+	width: 650px !important;
+}
+
+.speech-text5 {
+	background-image: url('../img/01/01_welcome_007c.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 700px;
+	width: 650px !important;
+}
+
+/* Slide 2 */
+#slide-2 .bcg {
+  color: #283644;
+  background: none;
+  height: 600px;
+  text-align: center;
+}
+
+.polaroid1 {
+  background-image: url('../img/02/02_foreigners_001.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.pika-slide2 {
+  background-image: url('../img/02/02_foreigners_002.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.speech-slide2 {
+  background-image: url('../img/02/02_foreigners_003.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.text-slide2 {
+  background-image: url('../img/02/02_foreigners_004.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+/* Slide 3 */
+.dot-slide3 {
+  background-image: url('../img/03/03_traits_001.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.pika-slide3 {
+  background-image: url('../img/03/03_traits_002.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.speech1-slide3 {
+  background-image: url('../img/03/03_traits_013.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+.text1-slide3 {
+  background-image: url('../img/03/03_traits_014.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.speech2-slide3 {
+  background-image: url('../img/03/03_traits_003.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+.text2-slide3 {
+  background-image: url('../img/03/03_traits_004.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.speech3-slide3 {
+  background-image: url('../img/03/03_traits_005.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+.text3-slide3 {
+  background-image: url('../img/03/03_traits_006.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.speech4-slide3 {
+  background-image: url('../img/03/03_traits_007.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+.text4-slide3 {
+  background-image: url('../img/03/03_traits_008.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.speech5-slide3 {
+  background-image: url('../img/03/03_traits_009.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+.text5-slide3 {
+  background-image: url('../img/03/03_traits_010.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.speech6-slide3 {
+  background-image: url('../img/03/03_traits_011.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+.text6-slide3 {
+  background-image: url('../img/03/03_traits_012.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.speech7-slide3 {
+  background-image: url('../img/03/03_traits_015.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+.text7-slide3 {
+  background-image: url('../img/03/03_traits_016.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+/* Slide 4 */
+.polaroid2 {
+  background-image: url('../img/04/04_fundamentals_001.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.pika-slide4 {
+  background-image: url('../img/04/04_fundamentals_003.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.other-slide4 {
+  background-image: url('../img/04/04_fundamentals_002.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.speech-slide4 {
+  background-image: url('../img/04/04_fundamentals_004.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.text1-slide4 {
+  background-image: url('../img/04/04_fundamentals_005.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.text2-slide4 {
+  background-image: url('../img/04/04_fundamentals_006.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.text3-slide4 {
+  background-image: url('../img/04/04_fundamentals_007.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+.text4-slide4 {
+  background-image: url('../img/04/04_fundamentals_008.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+}
+
+/* Slide 5 */
+.char-slide5 {
+	background-image: url('../img/05/05_values_001.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide5 {
+	background-image: url('../img/05/05_values_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide5 {
+	background-image: url('../img/05/05_values_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech2-slide5 {
+	background-image: url('../img/05/05_values_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech3-slide5 {
+	background-image: url('../img/05/05_values_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech4-slide5 {
+	background-image: url('../img/05/05_values_006.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech5-slide5 {
+	background-image: url('../img/05/05_values_007.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* Slide 6-1 */
+.polaroid3 {
+	background-image: url('../img/06_1/06_dutyloyalty_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+
+/* Misc styles */
+.hsContainer {
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	position: relative;
+}
+
+.hsContent {
+	max-width: 450px;
+	margin: -150px auto 0 auto;
+	display: table-cell;
+	vertical-align: middle;
+	padding: 0 8%;
+	text-align: center
+}
+.hsContent p {
+	width: 400px;
+	margin: 0 auto;
+}
