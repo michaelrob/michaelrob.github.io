@@ -141,6 +141,13 @@ h2 {
 }
 
 /* Slide 3 */
+#slide-3 .bcg {
+  color: #283644;
+  background: none;
+  height: 600px;
+  text-align: center;
+}
+
 .dot-slide3 {
   background-image: url('../img/03/03_traits_001.png');
   background-repeat: no-repeat;
@@ -247,6 +254,13 @@ h2 {
 }
 
 /* Slide 4 */
+#slide-4 .bcg {
+  color: #283644;
+  background: none;
+  height: 600px;
+  text-align: center;
+}
+
 .polaroid2 {
   background-image: url('../img/04/04_fundamentals_001.jpg');
   background-repeat: no-repeat;
@@ -354,6 +368,13 @@ h2 {
 }
 
 /* Slide 6-1 */
+#slide-6-1 .bcg {
+  color: #283644;
+  background: none;
+  height: 600px;
+  text-align: center;
+}
+
 .polaroid3 {
 	background-image: url('../img/06_1/06_dutyloyalty_001.jpg');
 	background-repeat: no-repeat;
