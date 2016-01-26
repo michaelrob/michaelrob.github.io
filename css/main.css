@@ -108,7 +108,6 @@ h2 {
 #slide-2 .bcg {
   color: #283644;
   background: none;
-  height: 600px;
   text-align: center;
 }
 
@@ -144,7 +143,6 @@ h2 {
 #slide-3 .bcg {
   color: #283644;
   background: none;
-  height: 600px;
   text-align: center;
 }
 
@@ -257,7 +255,6 @@ h2 {
 #slide-4 .bcg {
   color: #283644;
   background: none;
-  height: 600px;
   text-align: center;
 }
 
@@ -371,7 +368,6 @@ h2 {
 #slide-6-1 .bcg {
   color: #283644;
   background: none;
-  height: 600px;
   text-align: center;
 }
 
@@ -379,12 +375,419 @@ h2 {
 	background-image: url('../img/06_1/06_dutyloyalty_001.jpg');
 	background-repeat: no-repeat;
 	background-size: contain;
+	height: 400px;
+}
+
+.pika-slide6-1 {
+	background-image: url('../img/06_1/06_dutyloyalty_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
 	height: 500px;
 }
 
-.tbc {
-	font-family: helvetica;
+.speech-slide6-1 {
+	background-image: url('../img/06_1/06_dutyloyalty_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
 }
+
+/* Slide 6-2*/
+#slide-6-2 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid4 {
+	background-image: url('../img/06_2/06_dutyloyalty_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 400px;
+}
+
+.pika-slide6-2 {
+	background-image: url('../img/06_2/06_dutyloyalty_02_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 400px;
+}
+
+.speech1-slide6-2 {
+	background-image: url('../img/06_2/06_dutyloyalty_02_008.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech2-slide6-2 {
+	background-image: url('../img/06_2/06_dutyloyalty_02_009.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech3-slide6-2 {
+	background-image: url('../img/06_2/06_dutyloyalty_02_010.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* Slide 7*/
+#slide-7 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.group-slide7 {
+	background-image: url('../img/07/07_western_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide7 {
+	background-image: url('../img/07/07_western_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide7 {
+	background-image: url('../img/07/07_western_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.text1-slide7 {
+	background-image: url('../img/07/07_western_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+	z-index: 9999999;
+}
+.speech2-slide7 {
+	background-image: url('../img/07/07_western_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.text2-slide7 {
+	background-image: url('../img/07/07_western_006.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+	z-index: 999999;
+}
+.text3-slide7 {
+	background-image: url('../img/07/07_western_007.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+	z-index: 999999;
+}
+.text4-slide7 {
+	background-image: url('../img/07/07_western_008.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+	z-index: 999999;
+}
+.text5-slide7 {
+	background-image: url('../img/07/07_western_009.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+	z-index: 999999;
+}
+.speech3-slide7 {
+	background-image: url('../img/07/07_western_010.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.text6-slide7 {
+	background-image: url('../img/07/07_western_011.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+	z-index: 999999;
+}
+
+.speech4-slide7 {
+	background-image: url('../img/07/07_western_012.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech5-slide7 {
+	background-image: url('../img/07/07_western_013.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.text7-slide7 {
+	background-image: url('../img/07/07_western_014.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech6-slide7 {
+	background-image: url('../img/07/07_western_015.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.text8-slide7 {
+	background-image: url('../img/07/07_western_016.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* Slide 8 */
+#slide-8 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.pika-slide8 {
+	background-image: url('../img/08/08_traitshistory_008.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech1-slide8 {
+	background-image: url('../img/08/08_traitshistory_001.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide8 {
+	background-image: url('../img/08/08_traitshistory_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech3-slide8 {
+	background-image: url('../img/08/08_traitshistory_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech4-slide8 {
+	background-image: url('../img/08/08_traitshistory_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech5-slide8 {
+	background-image: url('../img/08/08_traitshistory_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech6-slide8 {
+	background-image: url('../img/08/08_traitshistory_006.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech7-slide8 {
+	background-image: url('../img/08/08_traitshistory_007.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* Slide 9 */
+#slide-9 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid5 {
+	background-image: url('../img/09/09_system_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide9 {
+	background-image: url('../img/09/09_system_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech-slide9 {
+	background-image: url('../img/09/09_system_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* Slide 10 */
+#slide-10 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid6 {
+	background-image: url('../img/10/10_confucius_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.other-slide10 {
+	background-image: url('../img/10/10_confucius_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide10 {
+	background-image: url('../img/10/10_confucius_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide10 {
+	background-image: url('../img/10/10_confucius_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide10 {
+	background-image: url('../img/10/10_confucius_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* Slide 11 */
+#slide-11 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid7 {
+	background-image: url('../img/11/11_natural_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.other-slide11 {
+	background-image: url('../img/11/11_natural_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.pika-slide11 {
+	background-image: url('../img/11/11_natural_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide11 {
+	background-image: url('../img/11/11_natural_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide11 {
+	background-image: url('../img/11/11_natural_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* Slide 12 */
+#slide-12 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid8 {
+	background-image: url('../img/12/12_shinto_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide12 {
+	background-image: url('../img/12/12_shinto_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide12 {
+	background-image: url('../img/12/12_shinto_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* slide-13-14-15 */
+#slide-13-14-15 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid9 {
+	background-image: url('../img/13/13_water_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.polaroid10 {
+	background-image: url('../img/14/14_arch_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide15 {
+	background-image: url('../img/15/15_kami_001.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide15 {
+	background-image: url('../img/15/15_kami_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide15 {
+	background-image: url('../img/15/15_kami_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech3-slide15 {
+	background-image: url('../img/15/15_kami_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech4-slide15 {
+	background-image: url('../img/15/15_kami_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+
 
 /* Misc styles */
 .hsContainer {
