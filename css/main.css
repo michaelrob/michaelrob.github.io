@@ -787,6 +787,108 @@ h2 {
 	height: 500px;
 }
 
+/* slide-16-17 */
+#slide-16-17 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid11 {
+	background-image: url('../img/16/16_samurai_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.polaroid12 {
+	background-image: url('../img/17/17_homosexuality_001.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide16 {
+	background-image: url('../img/17/17_homosexuality_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide16 {
+	background-image: url('../img/17/17_homosexuality_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide16 {
+	background-image: url('../img/17/17_homosexuality_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech3-slide16 {
+	background-image: url('../img/17/17_homosexuality_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech4-slide16 {
+	background-image: url('../img/17/17_homosexuality_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* slide-18 */
+#slide-18 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid13 {
+	background-image: url('../img/18/18_feudal_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide18 {
+	background-image: url('../img/18/18_feudal_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide18 {
+	background-image: url('../img/18/18_feudal_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* slide-19 */
+#slide-19 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid14 {
+	background-image: url('../img/19/19_emperor_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide19 {
+	background-image: url('../img/19/19_emperor_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide19 {
+	background-image: url('../img/19/19_emperor_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
 
 
 /* Misc styles */
