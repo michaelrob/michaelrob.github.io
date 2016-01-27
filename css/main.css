@@ -889,6 +889,24 @@ h2 {
 	background-size: contain;
 	height: 500px;
 }
+.speech3-slide19 {
+	background-image: url('../img/19/19_emperor_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech4-slide19 {
+	background-image: url('../img/19/19_emperor_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech5-slide19 {
+	background-image: url('../img/19/19_emperor_006.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
 
 
 /* Misc styles */
