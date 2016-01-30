@@ -877,7 +877,7 @@ h2 {
 	height: 500px;
 }
 
-.speech1-slide19 {
+.pika-slide19 {
 	background-image: url('../img/19/19_emperor_002.png');
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -903,6 +903,378 @@ h2 {
 }
 .speech5-slide19 {
 	background-image: url('../img/19/19_emperor_006.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* slide-20 */
+#slide-20 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid15 {
+	background-image: url('../img/20/20_americanisation_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide20 {
+	background-image: url('../img/20/20_americanisation_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide20 {
+	background-image: url('../img/20/20_americanisation_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide20 {
+	background-image: url('../img/20/20_americanisation_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech3-slide20 {
+	background-image: url('../img/20/20_americanisation_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* slide-21 */
+#slide-21 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid16 {
+	background-image: url('../img/21/21_kamikaze_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide21 {
+	background-image: url('../img/21/21_kamikaze_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide21 {
+	background-image: url('../img/21/21_kamikaze_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide21 {
+	background-image: url('../img/21/21_kamikaze_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech3-slide21 {
+	background-image: url('../img/21/21_kamikaze_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* slide-22 */
+#slide-22 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid17 {
+	background-image: url('../img/22/22_comfort_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide22 {
+	background-image: url('../img/22/22_comfort_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide22 {
+	background-image: url('../img/22/22_comfort_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide22 {
+	background-image: url('../img/22/22_comfort_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech3-slide22 {
+	background-image: url('../img/22/22_comfort_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech4-slide22 {
+	background-image: url('../img/22/22_comfort_006.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech5-slide22 {
+	background-image: url('../img/22/22_comfort_007.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech6-slide22 {
+	background-image: url('../img/22/22_comfort_008.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech7-slide22 {
+	background-image: url('../img/22/22_comfort_009.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* slide-23 */
+#slide-23 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.gif1 {
+	background-image: url('../img/23/23_breadwinner_004.gif');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 400px;
+}
+.gif2 {
+	background-image: url('../img/23/23_breadwinner_003.gif');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 400px;
+}
+
+
+.pika-slide23 {
+	background-image: url('../img/23/23_breadwinner_001.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide23 {
+	background-image: url('../img/23/23_breadwinner_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* slide-24 */
+#slide-24 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid18 {
+	background-image: url('../img/24/24_gender_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.polaroid19 {
+	background-image: url('../img/25/24_women_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide24 {
+	background-image: url('../img/24/24_gender_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.other-slide024 {
+	background-image: url('../img/25/24_women_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide24 {
+	background-image: url('../img/24/24_gender_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide24 {
+	background-image: url('../img/24/24_gender_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech3-slide24 {
+	background-image: url('../img/24/24_gender_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech4-slide24 {
+	background-image: url('../img/24/24_gender_006.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech5-slide24 {
+	background-image: url('../img/24/24_gender_007.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech6-slide24 {
+	background-image: url('../img/24/24_gender_008.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* slide-26 */
+#slide-26 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid20 {
+	background-image: url('../img/26/26_honne_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide26 {
+	background-image: url('../img/26/26_honne_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide26 {
+	background-image: url('../img/26/26_honne_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide26 {
+	background-image: url('../img/26/26_honne_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+/* slide-27 */
+#slide-27 .bcg {
+	color: #283644;
+	background: none;
+}
+
+.polaroid21 {
+	background-image: url('../img/27/27_LGBT_001.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.pika-slide27 {
+	background-image: url('../img/27/27_LGBT_002.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+
+.speech1-slide27 {
+	background-image: url('../img/27/27_LGBT_003.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech2-slide27 {
+	background-image: url('../img/27/27_LGBT_004.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech3-slide27 {
+	background-image: url('../img/27/27_LGBT_005.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech4-slide27 {
+	background-image: url('../img/27/27_LGBT_006.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech5-slide27 {
+	background-image: url('../img/27/27_LGBT_007.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech6-slide27 {
+	background-image: url('../img/27/27_LGBT_008.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech7-slide27 {
+	background-image: url('../img/27/27_LGBT_009.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech8-slide27 {
+	background-image: url('../img/27/27_LGBT_010.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech9-slide27 {
+	background-image: url('../img/27/27_LGBT_011.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech10-slide27 {
+	background-image: url('../img/27/27_LGBT_012.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech11-slide27 {
+	background-image: url('../img/27/27_LGBT_013.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+}
+.speech12-slide27 {
+	background-image: url('../img/27/27_LGBT_014.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	height: 500px;
