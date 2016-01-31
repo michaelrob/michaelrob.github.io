@@ -1491,6 +1491,14 @@ h2 {
 	z-index: 999;
 }
 
+.conclusion {
+	height: 100%;
+	text-align: center;
+	background-color: #000;
+	color: #fff;
+	font-family: helvetica;
+	font-size: 20px;
+}
 
 /* Misc styles */
 .hsContainer {
