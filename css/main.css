@@ -63,7 +63,6 @@ h2 {
 	background-repeat: no-repeat;
 	background-size: contain;
 	height: 700px;
-	width: 600px !important;
 }
 
 .speech-text1 {
@@ -93,7 +92,7 @@ h2 {
 	background-repeat: no-repeat;
 	background-size: contain;
 	height: 700px;
-	width: 650px !important;
+	width: 700px !important;
 }
 
 .speech-text5 {
@@ -101,7 +100,7 @@ h2 {
 	background-repeat: no-repeat;
 	background-size: contain;
 	height: 700px;
-	width: 650px !important;
+	width: 700px !important;
 }
 
 /* Slide 2 */
@@ -129,14 +128,16 @@ h2 {
   background-image: url('../img/02/02_foreigners_003.png');
   background-repeat: no-repeat;
   background-size: contain;
-  height: 500px;
+  height: 800px;
+	width: 800px !important;
 }
 
 .text-slide2 {
   background-image: url('../img/02/02_foreigners_004.png');
   background-repeat: no-repeat;
   background-size: contain;
-  height: 500px;
+  height: 800px;
+	width: 800px !important;
 }
 
 /* Slide 3 */
@@ -996,57 +997,57 @@ h2 {
 	background-image: url('../img/22/22_comfort_001.jpg');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 600px;
 }
 
 .pika-slide22 {
 	background-image: url('../img/22/22_comfort_002.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 600px;
 }
 
 .speech1-slide22 {
 	background-image: url('../img/22/22_comfort_003.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 600px;
 }
 .speech2-slide22 {
 	background-image: url('../img/22/22_comfort_004.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 600px;
 }
 .speech3-slide22 {
 	background-image: url('../img/22/22_comfort_005.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 600px;
 }
 .speech4-slide22 {
 	background-image: url('../img/22/22_comfort_006.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 600px;
 }
 .speech5-slide22 {
 	background-image: url('../img/22/22_comfort_007.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 600px;
 }
 .speech6-slide22 {
 	background-image: url('../img/22/22_comfort_008.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 600px;
 }
 .speech7-slide22 {
 	background-image: url('../img/22/22_comfort_009.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 600px;
 }
 
 /* slide-23 */
@@ -1100,7 +1101,7 @@ h2 {
 	background-image: url('../img/25/24_women_001.jpg');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 300px;
 }
 
 .pika-slide24 {
@@ -1197,7 +1198,7 @@ h2 {
 	background-image: url('../img/27/27_LGBT_001.jpg');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 300px;
 }
 
 .polaroid22 {
@@ -1211,7 +1212,7 @@ h2 {
 	background-image: url('../img/27/27_LGBT_003.jpg');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 300px;
 }
 
 .pika-slide27 {
@@ -1389,14 +1390,14 @@ h2 {
 	background-image: url('../img/30/30_equality_002.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 650px;
 }
 
 .speech1-slide30 {
 	background-image: url('../img/30/30_equality_003.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 800px;
 }
 .speech2-slide30 {
 	background-image: url('../img/30/30_equality_004.png');
