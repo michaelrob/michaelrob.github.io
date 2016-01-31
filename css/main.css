@@ -805,7 +805,7 @@ h2 {
 	background-image: url('../img/16/16_samurai_001.jpg');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 500px;
+	height: 400px;
 }
 .polaroid12 {
 	background-image: url('../img/17/17_homosexuality_001.png');
@@ -1474,13 +1474,20 @@ h2 {
 	z-index: 990;
 }
 
+.text4-slide31 {
+	background-image: url('../img/31/31_perspective_007.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 500px;
+	z-index: 999;
+}
 
 .char-slide31 {
 	background-image: url('../img/31/31_perspective_002.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	height: 500px;
-	z-index: 999;
+	z-index: 9999;
 }
 
 .pika-slide31 {
@@ -1488,7 +1495,7 @@ h2 {
 	background-repeat: no-repeat;
 	background-size: contain;
 	height: 500px;
-	z-index: 999;
+	z-index: 9999;
 }
 
 .conclusion {
@@ -1498,6 +1505,8 @@ h2 {
 	color: #fff;
 	font-family: helvetica;
 	font-size: 20px;
+	display: block;
+	z-index: 99999999;
 }
 
 /* Misc styles */
