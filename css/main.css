@@ -29,6 +29,13 @@ h2 {
   background: none;
 }
 
+.cherrybackground {
+	background-image: url('../img/welcome/cherry.png');
+	background-repeat: no-repeat;
+  background-size: contain;
+  height: 100%;
+}
+
 .welcome-image {
   background-image: url('../img/welcome/00_scroll_001.png');
   background-repeat: no-repeat;
